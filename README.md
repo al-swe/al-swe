@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Alan!
 
-<!--
-**al-swe/al-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer in training, currently enrolled in a .NET full stack development course at Lexicon. I have a passion for web development and have been honing my skills with HTML, CSS, JavaScript, and React through numerous projects.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning .NET full stack development.
+- 💻 I've built several projects using HTML, CSS, JavaScript, and React.
+- 🎓 Completed the "Front End Web Development" course at TeamTreehouse.
+
+### 🛠️ Skills and Technologies
+
+- **Front-end:** HTML, CSS, JavaScript, React, Bootstrap
+- **Back-end:** C# (Entity Framework, .NET, MVC)
+- **Database:** SQL
+
+### 🌟 Interests and Hobbies
+
+- 📚 A curious person who loves learning new things through books, YouTube, and documentaries.
+- 🎵 Passionate about making and listening to music.
+- 🏌️‍♂️ Enjoy playing golf and running.
+
+### 📫 How to reach me
+
+I'm currently working on my portfolio. Stay tuned for the link to my GitHub profile!
