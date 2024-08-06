@@ -4,7 +4,7 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning .NET full stack development.
+- 🌱 I’m currently learning .NET full stack development at Lexicon.
 - 💻 I've built several projects using HTML, CSS, JavaScript, and React.
 - 🎓 Completed the "Front End Web Development" course at TeamTreehouse.
 
