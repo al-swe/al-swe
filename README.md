@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alan!
+## Hi there, I'm Alan!
 
 I'm a Fullstack Developer in training, currently enrolled in a .NET full stack development course at Lexicon. I have a passion for web development and have been honing my skills with HTML, CSS, JavaScript, and React through numerous projects.
 
