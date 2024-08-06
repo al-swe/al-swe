@@ -12,7 +12,7 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 
 - **Front-end:** HTML, CSS, Bootstrap, JavaScript, React
 - **Back-end:** C# (Entity Framework, .NET, MVC, Web API)
-- **Database:** SQL
+- **Database:** Microsoft SQL Server
 
 ### 🌟 Interests and Hobbies
 
