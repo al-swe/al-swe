@@ -18,5 +18,5 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 
 - 📚 A curious person who loves learning new things through books, YouTube, and documentaries.
 - 🎵 Passionate about making and listening to music.
-- 🏌️‍♂️ Enjoy playing golf and running.
+- 🏌️‍♂️ Enjoy playing golf, floorball and running.
 
