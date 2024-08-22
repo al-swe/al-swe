@@ -11,7 +11,7 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 ### 🛠️ Skills and Technologies
 
 - **Front-end:** HTML, CSS, Bootstrap, JavaScript, React
-- **Back-end:** C# (Entity Framework, .NET, MVC, Web API)
+- **Back-end:** C# (Entity Framework, .NET, MVC, Web API), Python (FastAPI, Flask)
 - **Database:** Microsoft SQL Server
 
 ### 🌟 Interests and Hobbies
