@@ -1,6 +1,6 @@
 ## Hi there, I'm Alan!
 
-I'm a Fullstack Developer in training, currently enrolled in a .NET full stack development course at Lexicon. I have a passion for web development and have been honing my skills with HTML, CSS, JavaScript, and React through numerous projects.
+I'm a Fullstack Developer in training, currently enrolled in a .NET full stack development course at Lexicon. I have a passion for web development and have been honing my skills with HTML, CSS, JavaScript, React and Next through numerous projects.
 
 ### 👨‍💻 About Me
 
@@ -10,7 +10,7 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 
 ### 🛠️ Skills and Technologies
 
-- **Front-end:** HTML, CSS, Bootstrap, JavaScript, React
+- **Front-end:** HTML, CSS, Bootstrap, JavaScript, React, Next
 - **Back-end:** C# (Entity Framework, .NET, MVC, Web API), Python (FastAPI, Flask)
 - **Database:** Microsoft SQL Server
 
