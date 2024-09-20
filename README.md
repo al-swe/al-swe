@@ -5,12 +5,12 @@ I'm a Fullstack Developer in training, currently enrolled in a .NET full stack d
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning .NET full stack development at Lexicon.
-- 💻 I've built several projects using HTML, CSS, JavaScript, and React (Next & Vite).
+- 💻 I've built several projects using HTML, CSS (Taiwind), JavaScript, and React (Next & Vite).
 - 🎓 Completed the Front End Web Development course at TeamTreehouse.
 
 ### 🛠️ Skills and Technologies
 
-- **Front-end:** HTML, CSS, Bootstrap, JavaScript, React, Next
+- **Front-end:** HTML, CSS, Tailwind, JavaScript, React, Next
 - **Back-end:** C# (Entity Framework, .NET, MVC, Web API), Python (FastAPI, Flask)
 - **Database:** Microsoft SQL Server
 
